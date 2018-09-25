@@ -1,0 +1,33 @@
+﻿生成启动时间为 2014/7/15 23:07:11。
+     1>项目“E:\Jacory\Code\ImgTest\ImgTest\ImgTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ImgTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\3rd_Party\GDAL110\include /I.\GeneratedFiles /I. /ID:\Qt\4.8.4\include /I.\GeneratedFiles\Debug /ID:\Qt\4.8.4\include\QtCore /ID:\Qt\4.8.4\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MapCanvas.cpp
+         MapCanvas.cpp
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Jacory\Code\ImgTest\Win32\Debug\\ImgTest.exe" /NOLOGO /LIBPATH:D:\3rd_Party\GDAL110\lib /LIBPATH:D:\Qt\4.8.4\lib gdal_i.lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ImgTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Jacory\Code\ImgTest\Win32\Debug\ImgTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Jacory\Code\ImgTest\Win32\Debug\ImgTest.lib" /MACHINE:X86 Debug\ImgTest.res
+         Debug\moc_MapCanvas.obj
+         Debug\moc_UIImgTest.obj
+         Debug\qrc_imgtest.obj
+         Debug\MapCanvas.obj
+         Debug\UIImgTest.obj
+         Debug\main.obj
+         LINK : 没有找到 E:\Jacory\Code\ImgTest\Win32\Debug\\ImgTest.exe 或上一个增量链接没有生成它；正在执行完全链接
+            正在创建库 E:\Jacory\Code\ImgTest\Win32\Debug\ImgTest.lib 和对象 E:\Jacory\Code\ImgTest\Win32\Debug\ImgTest.exp
+         ImgTest.vcxproj -> E:\Jacory\Code\ImgTest\Win32\Debug\ImgTest.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Jacory\Code\ImgTest\Win32\Debug\\ImgTest.exe;#1" /manifest Debug\ImgTest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ImgTest.unsuccessfulbuild”。
+         正在对“Debug\ImgTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Jacory\Code\ImgTest\ImgTest\ImgTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.17
