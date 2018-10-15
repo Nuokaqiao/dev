@@ -5,7 +5,7 @@ import(
 	"os"
 )
 
-const dataFile  = "../src/match/data/data.json"
+const dataFile  = "data/data.json"
 
 type Feed struct{
 	Name string `json:"site"`
